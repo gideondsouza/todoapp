@@ -6,5 +6,5 @@ int main()
 	while(i++<5) {
 		printf("Hey world\n");
 	}
-	getch();
+	getchar();
 }
