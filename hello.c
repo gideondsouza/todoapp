@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-intmain()
+int main()
 {
-	printf("Hey world\n");
+	int i = 0;
+	while(i++<5) {
+		printf("Hey world\n");
+	}
+	getch();
 }
